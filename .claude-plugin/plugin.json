@@ -1,0 +1,27 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "showcase",
+  "displayName": "Showcase",
+  "version": "1.4.2",
+  "description": "Everything you watch, read, play and listen to, in one place, with the people whose taste you trust. Add a title by saying it; ask what to watch from both your lists.",
+  "author": {
+    "name": "Block & Tackle LLC",
+    "url": "https://showcase.chat"
+  },
+  "homepage": "https://showcase.chat",
+  "repository": "https://github.com/keithguerin/showcase-plugin",
+  "license": "MIT",
+  "keywords": [
+    "media",
+    "watchlist",
+    "movies",
+    "tv",
+    "books",
+    "games",
+    "podcasts"
+  ],
+  "mcpServers": "./.mcp.json",
+  "privacyPolicyUrl": "https://showcase.chat/privacy",
+  "icon": ".claude-plugin/icon.png",
+  "documentationUrl": "https://showcase.chat/support"
+}

@@ -1,0 +1,15 @@
+{
+  "name": "showcase-plugin",
+  "owner": {
+    "name": "Block & Tackle LLC",
+    "url": "https://showcase.chat"
+  },
+  "plugins": [
+    {
+      "name": "showcase",
+      "source": "./",
+      "description": "Everything you watch, read, play and listen to, in one place, with the people whose taste you trust."
+    }
+  ],
+  "description": "Showcase for Claude: what you watch, read, play and listen to, with the people whose taste you trust."
+}
